@@ -1,7 +1,6 @@
 from telebot import TeleBot, types
 import logging
 
-
 TOKEN = ''
 
 bot = TeleBot(TOKEN)
