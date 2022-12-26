@@ -2,7 +2,7 @@ from telebot import TeleBot, types
 import logging
 
 
-TOKEN = '5983502807:AAE7ygaiKzlnyMcZkTuWHMAalS8XhexlUL8'
+TOKEN = ''
 
 bot = TeleBot(TOKEN)
 
